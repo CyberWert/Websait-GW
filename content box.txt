@@ -1,0 +1,29 @@
+<!-- Content Box -->
+<table width="608" border="0" cellpadding="3" cellspacing="1"><tr>
+<td background=images/ygol.gif><img src="images/little/5.gif" width="20" height="20"></td>
+<td width="608" height="24" class="title" background=images/fontitle.jpg>
+
+<!-- Title --><font size=3 color=#708090>О гильдии</font><!-- Title --></td>
+</tr><tr><td colspan="2"><img src="images/borderv.gif" width="600" height="13"></td>
+</tr><tr>
+<td width="390" height="20" colspan="2" bgcolor=#000000 background=images/back.gif align="center" valign="top">
+<table width="600" height="100%" border="0" cellpadding="4" cellspacing="0"><tr>
+<td valign="top">
+
+<p><font class="title" face="comic sans ms">
+На данный момент в гильдии около 80 человек. Гильдия состоит в альянсе, лидером которого является SoT. 
+
+</p>
+
+<font size=1>(03.07.2006)</font></font>
+</td></tr></table></td></tr><tr>
+<td colspan="2"><img src="images/bordern.gif" width="600" height="13" border="0">
+<img src="images\chain.gif" align=right width="20" height="40"><img src="images\chain.gif" align=left width="20" height="40"></td></tr></table>
+<!-- Content Box -->
+
+
+
+
+</center></table>
+<a href="http://top100.rambler.ru/top100/"><img src="http://counter.rambler.ru/top100.cnt?841922" width=1 height=1></a>
+</td></tr></table></body></html>
