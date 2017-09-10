@@ -1,2 +1,2 @@
 # Websait-GW
-Websait of Guildwars2 Guild
+Websait of Guildwars Guild
