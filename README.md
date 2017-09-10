@@ -1,2 +1,2 @@
 # Websait-GW
-Websait of Guildwars Guild. Start file - index.html. With frames.1
+Websait of Guildwars Guild. Start file - index.html. With frames.
